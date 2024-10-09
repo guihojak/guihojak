@@ -2,6 +2,17 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guihojak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guihojak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">Hello World!! 🌱</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -36,10 +47,14 @@
 
 ###
 
-<img align="left" height="200" src="https://i0.wp.com/cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif?ssl=1"  />
+<div align="center">
+  <img height="300" src="https://steamuserimages-a.akamaihd.net/ugc/1819992864661873261/32096F8E242EC6650491116F6C56994F9570BCB9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+</div>
 
 ###
 
-<h1 align="center">Hello World!! 🌱</h1>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/guihojak/guihojak/output/snake.svg" alt="Snake animation" />
 
 ###
