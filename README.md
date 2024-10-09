@@ -2,6 +2,10 @@
 
 ###
 
+<h1 align="center">printf   ("Hello World") 💡</h1>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guihojak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guihojak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -9,20 +13,20 @@
 
 ###
 
-<h3 align="center">Hello World!! 🌱</h3>
+<h2 align="center">🛠️  Linguagens e Frameworks  🛠️</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
 ###
@@ -48,7 +52,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.redd.it/94ugiyk89xi61.gif"  />
+  <img height="150" src="https://camo.githubusercontent.com/cadbe05ef2bd54de998ccadc27a5cd5d87d348333a624a8aecb244190c37ac86/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d6f6272696761646f2b70656c612b6174656ec3a7c3a36f213b"  />
 </div>
 
 ###
