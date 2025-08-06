@@ -4,21 +4,30 @@
 ---
 
 <p align="center">
-  🚀 Apaixonado por **Desenvolvimento Web**, **Inteligência Artificial** e **Tecnologias Frontend**.<br>
-  Atualmente, estou me aprofundando em **Banco de Dados** e **Java** enquanto aplico meus conhecimentos no estágio em Engenharia de Software na **Tooling Equipamentos Ópticos** e colaboro com a equipe da **Lansutech**.
+  🚀 Apaixonado por **Desenvolvimento Web**, **Inteligência Artificial** e **Tecnologias Frontend**. Atualmente, estou aplicando meus conhecimentos no estágio em Engenharia de Software na **Tooling Equipamentos Ópticos** e colaborando com a equipe da **Lansutech**.
 </p>
 
 ---
 
-### 🚀 Minhas habilidades
+### 📚 O que estou estudando agora
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgres" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,tailwind,java,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,tailwind" />
 </div>
 
 <br>
 
-### 📈 Estatísticas do GitHub
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihojak&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
@@ -27,7 +36,7 @@
 
 ---
 
-### 📬 Conecte-se comigo
+### 🌐 Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-xavier-hojak-694b79300/" target="_blank">
@@ -40,3 +49,9 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guihojak&color=blueviolet" alt="Profile views">
+</p>
