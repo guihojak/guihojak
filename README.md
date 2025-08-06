@@ -4,23 +4,15 @@
 ---
 
 <p align="center">
-  🚀 Apaixonado por **Desenvolvimento Web**, **Inteligência Artificial** e **Tecnologias Frontend**. Atualmente, estou aplicando meus conhecimentos no estágio em Engenharia de Software na **Tooling Equipamentos Ópticos** e colaborando com a equipe da **Lansutech**.
+  🚀 Apaixonado por <b>Desenvolvimento Web</b>, <b>Inteligência Artificial</b> e <b>Tecnologias Frontend</b>. Atualmente, estou aplicando meus conhecimentos no estágio em Engenharia de Software na <b>Tooling Equipamentos Ópticos</b> e colaborando com a equipe da <b>Lansutech</b>.
 </p>
 
 ---
 
-### 📚 O que estou estudando agora
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,postgres" />
-</p>
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Estudando
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,tailwind,java,mysql,postgres" />
 </div>
 
 <br>
@@ -36,17 +28,25 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guihojak&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
+---
+
 ### 🌐 Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-xavier-hojak-694b79300/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/guihojak/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
   <a href="mailto:guihojak@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
@@ -55,3 +55,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guihojak&color=blueviolet" alt="Profile views">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guihojak/guihojak/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guihojak/guihojak/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guihojak/guihojak/output/pacman-contribution-graph.svg">
+</picture>
