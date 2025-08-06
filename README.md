@@ -1,8 +1,6 @@
 <h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 <h3 align="center">Estudante de Engenharia de Software na UniCesumar</h3>
 
----
-
 <p align="center">
   🚀 Apaixonado por <b>Desenvolvimento Web</b>, <b>Inteligência Artificial</b> e <b>Tecnologias Frontend</b>. Atualmente, estou aplicando meus conhecimentos no estágio em Engenharia de Software na <b>Tooling Equipamentos Ópticos</b> e colaborando com a equipe da <b>Lansutech</b>.
 </p>
@@ -27,7 +25,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guihojak&theme=tokyonight&mode=weekly&hide_border=true" />
 </div>
 
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -35,6 +32,16 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=guihojak&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
+
+---
+
+### 👾 Contribuições de Código
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guihojak/guihojak/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guihojak/guihojak/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guihojak/guihojak/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -57,6 +64,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guihojak&color=blueviolet" alt="Profile views">
 </p>
-
-
-###
