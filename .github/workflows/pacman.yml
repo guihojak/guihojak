@@ -1,0 +1,18 @@
+name: GitHub-Profile-Pacman
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Pacman Graph
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruan-g/pacman-contribution-graph@v1
+        with:
+          user_name: 'guihojak'
+          output_file_name: 'output/pacman-contribution-graph.svg'
+          style: 'dark'
