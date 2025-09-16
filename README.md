@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Engenharia de Software na UniCesumar</h3>
 
 <p align="center">
-  🚀 Apaixonado por <b>Desenvolvimento de Software</b>, <b>Inteligência Artificial</b> e <b>Tecnologias Frontend</b>. Atualmente, estou aplicando meus conhecimentos no estágio em Engenharia de Software na <b>Tooling Equipamentos Ópticos</b> e colaborando com a equipe da <b>Lansutech</b>. Buscando fazer a <b>diferença</b>...
+  🚀 Apaixonado por <b>Desenvolvimento de Software</b>, <b>Inteligência Artificial</b> e <b>Tecnologias Frontend</b>. Atualmente, estou aplicando meus conhecimentos no estágio em Engenharia de Software na <b>Tooling Equipamentos Ópticos</b> e colaborando com a equipe da <b>Lansutech</b>. 
 </p>
 
 ---
