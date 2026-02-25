@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack & Estudando
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,tailwind,java,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,tailwind,java,mysql,postgres,angular" />
 </div>
 
 <br>
