@@ -15,24 +15,26 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: guihojak
           template: classic
-          base: "" # Removemos o cabeçalho padrão para não repetir seu nome/bio
+          # Base "" remove o cabeçalho que repete seu nome/bio
+          base: ""
           config_timezone: America/Sao_Paulo
           theme: tokyonight
           
-          # --- O CALENDÁRIO 3D ---
+          # --- O CALENDÁRIO 3D (Substitui a Snake e o gráfico comum) ---
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # Mostra os últimos 6 meses para ficar clean
+          plugin_isocalendar_duration: half-year 
           
-          # --- LINGUAGENS FILTRADAS ---
+          # --- LINGUAGENS FILTRADAS (Removendo o que polui) ---
           plugin_languages: yes
-          plugin_languages_ignored: html, css, eiffel, pascal # Filtre o que você não quer destacar
-          plugin_languages_details: lines, percentage
+          plugin_languages_ignored: html, css, pascal, eiffel, euphoria
+          plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_limit: 6
           
-          # --- CONQUISTAS (BADGES) ---
+          # --- TROFÉUS INTEGRADOS (Badges Premium) ---
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: B      # Só mostra conquistas relevantes
+          plugin_achievements_display: detailed # Estilo medalha
+          plugin_achievements_limit: 6
           
           filename: github-metrics.svg
