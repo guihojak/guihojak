@@ -1,48 +1,51 @@
-<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
-<h3 align="center">Estudante de Engenharia de Software na UniCesumar</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=7aa2f7&height=150&section=header&text=Guilherme%20Hojak&fontSize=50&animation=fadeIn&fontAlignY=40&theme=tokyonight" />
+</p>
+
+<h3 align="center">Software Engineering Student @ UniCesumar</h3>
 
 <p align="center">
-  🚀 Apaixonado por <b>Desenvolvimento de Software</b>, <b>Inteligência Artificial</b> e <b>Tecnologias Frontend</b>. Atualmente, estou aplicando meus conhecimentos no estágio de Auxiliar no Desenvolvimento de Sistemas na <b>Tooling Equipamentos Ópticos</b> e <br> colaborando com a equipe da <b>Lansutech</b>. 
+  🚀 <b>Software Developer | AI Enthusiast | Frontend Specialist</b><br>
+  Auxiliar no Desenvolvimento de Sistemas na <b>Tooling Equipamentos Ópticos</b> e Colaborador na <b>Lansutech</b>.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEU_USER_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Estudando
+### 🛠️ Tech Stack & Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,tailwind,java,mysql,postgres,angular" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,tailwind,java,cpp,mysql,postgres,c,html,css" />
 </div>
 
 <br>
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihojak&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihojak&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guihojak&theme=tokyonight&mode=weekly&hide_border=true" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guihojak-ma&theme=darkhub" height="150" alt="trophy graph" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>📊 Infográfico de Performance</h3>
+      <img src="github-metrics.svg" width="100%" />
+    </td>
+    <td width="45%" valign="top">
+      <h3>🐍 Atividade no GitHub</h3>
+      <img src="https://raw.githubusercontent.com/guihojak/guihojak/output/github-contribution-grid-snake.svg" width="100%" />
+      <br><br>
+      <h3>🔥 Streak Atual</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=guihojak&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🐍 Contribuições de Código
+### 🔭 Experiência Profissional
+- 🛠️ **Tooling Equipamentos Ópticos:** Focado em soluções de software para o setor industrial/óptico.
+- 🌐 **Lansutech:** Desenvolvimento de aplicações modernas e escaláveis.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/guihojak/guihojak/output/github-contribution-grid-snake.svg" alt="Snake game on contributions" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guihojak&color=blueviolet" alt="Profile views">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=guihojak&color=7aa2f7&style=flat-square" alt="Profile views">
 </p>
