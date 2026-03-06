@@ -34,7 +34,7 @@
 <br>
 <h3>🔥 Streak Atual</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guihojak&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guihojak&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 <br>
 
