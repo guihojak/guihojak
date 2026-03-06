@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=7aa2f7&height=150&section=header&text=Guilherme%20Hojak&fontSize=50&animation=fadeIn&fontAlignY=40&theme=tokyonight" />
-</p>
+<h1 align="center"><b>guihojak</b></h1>
 
 <h3 align="center">Software Engineering Student @ UniCesumar</h3>
 
@@ -10,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_USER_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guihojak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:guihojak@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
