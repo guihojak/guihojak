@@ -1,9 +1,9 @@
 <h1 align="center"><b>guihojak</b></h1>
 
-<h3 align="center">Software Engineering Student @ UniCesumar</h3>
+<h3 align="center">Sistemas de Informação Student @ Unipar</h3>
 
 <p align="center">
-  🚀 <b>Software Developer | AI Enthusiast | Frontend Specialist</b><br>
+  🚀 <b>Software Developer | AI Enthusiast | Frontend </b><br>
   Auxiliar no Desenvolvimento de Sistemas na <b>Tooling Equipamentos Ópticos</b> e Colaborador na <b>Lansutech</b>.
 </p>
 
@@ -22,15 +22,11 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="55%" valign="top">
       <h3>📊 Infográfico de Performance</h3>
       <img src="github-metrics.svg" width="100%" />
-    </td>
-    <td width="45%" valign="top">
-      <h3>🐍 Atividade no GitHub</h3>
-      <img src="https://raw.githubusercontent.com/guihojak/guihojak/output/github-contribution-grid-snake.svg" width="100%" />
     </td>
   </tr>
 </table>
@@ -38,10 +34,14 @@
 <br>
 <h3>🔥 Streak Atual</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guihojak&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guihojak&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 <br>
 
+<h3>🐍 Atividade no GitHub</h3>
+  <div align="center">
+      <img src="https://raw.githubusercontent.com/guihojak/guihojak/output/github-contribution-grid-snake.svg" width="100%" />
+  </div>
 ---
 
 ### 🔭 Experiência Profissional
