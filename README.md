@@ -4,7 +4,7 @@
 
 <p align="center">
   🚀 <b>Software Developer | AI Enthusiast | Frontend </b><br>
-  Auxiliar no Desenvolvimento de Sistemas na <b>Tooling Equipamentos Ópticos</b> e Colaborador na <b>Lansutech</b>.
+  Técnico de Informática na <b>Tooling Equipamentos Ópticos</b> e Colaborador na <b>Lansutech</b>.
 </p>
 
 
