@@ -3,7 +3,7 @@
 <h3 align="center">Sistemas de Informação Student @ Unipar</h3>
 
 <p align="center">
-  🚀 <b>Software Developer | AI Enthusiast | Frontend </b><br>
+   <b>Software Developer | AI Enthusiast | Frontend </b><br>
   Técnico de Informática na <b>Tooling Equipamentos Ópticos</b> e Colaborador na <b>Lansutech</b>.
 </p>
 
