@@ -35,7 +35,7 @@
 <br>
 
 <h3>🐍 Atividade no GitHub</h3>
-  <div align="center">
+  <div align="right">
       <img src="https://raw.githubusercontent.com/guihojak/guihojak/output/github-contribution-grid-snake.svg" width="100%" />
   </div>
 
@@ -45,6 +45,6 @@
 - 🛠️ **Tooling Equipamentos Ópticos:** Focado em soluções de software para o setor industrial/óptico.
 - 🌐 **Lansutech:** Desenvolvimento de aplicações modernas e escaláveis.
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=guihojak&color=7aa2f7&style=flat-square" alt="Profile views">
 </p>
