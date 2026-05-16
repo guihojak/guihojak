@@ -45,6 +45,6 @@
 - 🛠️ **Tooling Equipamentos Ópticos:** Focado em soluções de software para o setor industrial/óptico.
 - 🌐 **Lansutech:** Desenvolvimento de aplicações modernas e escaláveis.
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=guihojak&color=7aa2f7&style=flat-square" alt="Profile views">
 </p>
