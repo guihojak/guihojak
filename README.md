@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,angular,tailwind,java,cpp,mysql,postgres,c,html,css" />
