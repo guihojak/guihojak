@@ -4,7 +4,7 @@
 
 <p align="center">
    <b>Software Developer | AI Enthusiast | Frontend </b><br>
-  Técnico de Informática na <b>Tooling Equipamentos Ópticos</b> e Colaborador na <b>Lansutech</b>.
+  Técnico de Informática na <b>Tooling Equipamentos Ópticos</b> e Colaborador na <a href="https://lansutech.com.br" target = "_blank"><b>Lansutech</b></a>.
 </p>
 
 
